@@ -9,6 +9,8 @@
 .settings/*
 .classpath
 
+pom.xml
+
 # Package Files #
 *.jar
 *.war
